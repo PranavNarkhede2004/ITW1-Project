@@ -34,6 +34,6 @@ class Driver:public ride{
 };
 
 
-// Declare external variables and functions
+
 
 #endif
