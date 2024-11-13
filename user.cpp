@@ -2,7 +2,7 @@
 // // **Class: User**
 // //      - Attributes: name, phone, email, location,UserID
 // //      - Methods: register(), login(), logout()
-// //      - Associations: User can book a Ride
+
 
 #include "user.h"
 #include"ride.h"
